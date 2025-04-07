@@ -1,6 +1,10 @@
 # ComposeExamples
 The aim of this project is to include multiple relistatc examples in a single app
 
+- okhttp and moshi are used to fetch cat fact data from `https://catfact.ninja/fact`
+- Room DB is used to save favourite cat facts
+- hilt is used for DI
+
 <img width="511" alt="image" src="https://github.com/user-attachments/assets/c9c491ee-be0c-4de2-afa0-a97b1241e96f" />
 
 We will first land on the `Home` page with showing you a random cat fact with 2 types charater count. There are also 2 buttons for reloading the cat fact and to save the cat fact to favourties (room db)
