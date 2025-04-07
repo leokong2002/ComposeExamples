@@ -9,7 +9,7 @@ We will first land on the `Home` page with showing you a random cat fact with 2 
 
 We can go to the `Favourites` page by clicking the `Favourites` tab on the bottom nav bar, there are a title to display the number of saved cat facts, a button to delete all of the saved facts. Saved cat facts can be reviewed on the page, each tile contains the info of it and a delete button for removing it from the db.
 
-<img width="338" alt="image" src="https://github.com/user-attachments/assets/ea64ea26-9d78-41e1-bdb5-e3b98dfe7415" />
+<img width="338" alt="image" src="https://github.com/user-attachments/assets/ea64ea26-9d78-41e1-bdb5-e3b98dfe7415" /> (This is AS Preview)
 <img width="511" alt="image" src="https://github.com/user-attachments/assets/a75d45b3-15a4-4d59-a9b4-fbaa6e9e811c" />
 <img width="511" alt="image" src="https://github.com/user-attachments/assets/e9352950-b70d-42b5-a3e8-2ab399144e1b" />
 
