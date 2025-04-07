@@ -1,5 +1,5 @@
 # ComposeExamples
-The aim of this project is to include multiple relistatc examples with a single app
+The aim of this project is to include multiple relistatc examples in a single app
 
 <img width="511" alt="image" src="https://github.com/user-attachments/assets/c9c491ee-be0c-4de2-afa0-a97b1241e96f" />
 
